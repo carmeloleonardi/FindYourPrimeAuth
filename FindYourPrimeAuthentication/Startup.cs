@@ -1,4 +1,5 @@
 using FindYourPrimeAuthentication.Data;
+using FindYourPrimeAuthentication.Models;
 using FindYourPrimeAuthentication.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -39,10 +40,10 @@ namespace FindYourPrimeAuthentication
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
-            services.AddTransient<IEmailSender, EmailSender>();
+            services.Configure<SmtpSettings>(Configuration.GetSection("SmtpSettings"));
 
-            //services.AddIdentity<IdentityUser,IdentityRole>()
-            //    .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddSingleton<IEmailSender, EmailSender>();
+
             services.AddControllersWithViews();
         }
 

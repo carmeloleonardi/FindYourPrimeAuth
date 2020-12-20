@@ -12,5 +12,6 @@ namespace FindYourPrimeAuthentication.Data
         public string LastName { get; set; }
         public DateTime DateBirth { get; set; }
         public string Gender { get; set; }
+        public string Address { get; set; }
     }
 }

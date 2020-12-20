@@ -393,3 +393,6 @@ C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeA
 C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeAuthentication\obj\Debug\net5.0\FindYourPrimeAuthentication.pdb
 C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeAuthentication\obj\Debug\net5.0\FindYourPrimeAuthentication.genruntimeconfig.cache
 C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeAuthentication\obj\Debug\net5.0\Razor\Views\FindPrime\Index.cshtml.g.cs
+C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeAuthentication\bin\Debug\net5.0\MailKit.dll
+C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeAuthentication\bin\Debug\net5.0\MimeKit.dll
+C:\Users\carme\Desktop\Blazar Academy\FindYourPrimeAuthentication\FindYourPrimeAuthentication\bin\Debug\net5.0\BouncyCastle.Crypto.dll
