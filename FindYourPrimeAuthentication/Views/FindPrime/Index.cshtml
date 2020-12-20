@@ -1,0 +1,19 @@
+﻿@using FindYourPrimeAuthentication.ViewModels;
+@model FindPrimeViewModel;
+
+
+<form asp-controller="FindPrime" asp-action="Search">
+    <table>
+        <tr>
+            <td>Insert your number:</td>
+            <td>
+                <input asp-for="Number" />
+                @Html.ValidationMessageFor(model=>model.Number)
+            </td>
+        
+            <td>
+                <input type="submit" />
+            </td>
+        </tr>
+    </table>
+</form>

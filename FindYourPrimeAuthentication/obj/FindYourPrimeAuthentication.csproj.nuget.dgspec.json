@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carme\\source\\repos\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj": {}
+    "C:\\Users\\carme\\Desktop\\Blazar Academy\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carme\\source\\repos\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj": {
+    "C:\\Users\\carme\\Desktop\\Blazar Academy\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carme\\source\\repos\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj",
+        "projectUniqueName": "C:\\Users\\carme\\Desktop\\Blazar Academy\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj",
         "projectName": "FindYourPrimeAuthentication",
-        "projectPath": "C:\\Users\\carme\\source\\repos\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj",
+        "projectPath": "C:\\Users\\carme\\Desktop\\Blazar Academy\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj",
         "packagesPath": "C:\\Users\\carme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carme\\source\\repos\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\obj\\",
+        "outputPath": "C:\\Users\\carme\\Desktop\\Blazar Academy\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -67,6 +67,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.22.0, )"
             }
           },
           "imports": [

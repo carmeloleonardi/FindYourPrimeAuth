@@ -109,6 +109,11 @@ namespace FindYourPrimeAuthentication.Areas.Identity.Pages.Account
                 {
                     _logger.LogInformation("User created a new account with password.");
 
+                    if (!await _roleManager.RoleExistsAsync(UserRoles.Standard))
+                        await _roleManager.CreateAsync(new IdentityRole(UserRoles.Standard));
+                    if (!await _roleManager.RoleExistsAsync(UserRoles.Premium))
+                        await _roleManager.CreateAsync(new IdentityRole(UserRoles.Premium));
+
                     await _userManager.AddToRoleAsync(user, UserRoles.Standard);
 
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);

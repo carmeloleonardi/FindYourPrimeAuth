@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PsMl7ebHnx/e+rok0lqwgsL+mx54fanqSGoWObzh6dvX2lAFnKbZ72ryRR2ckZBh98oqGTWGsgJO/vjYU1ojIQ==",
+  "dgSpecHash": "a8su9+GKb3o9UZA5VuMSqNV9NUuD80HmCJn1ztewFhT8CLLDtANriw0sUivBbyjoQLs6cO6vbPUGRVsP56UuxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carme\\source\\repos\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj",
+  "projectFilePath": "C:\\Users\\carme\\Desktop\\Blazar Academy\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication\\FindYourPrimeAuthentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carme\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.1\\microsoft.aspnetcore.cryptography.internal.5.0.1.nupkg.sha512",
@@ -64,6 +64,8 @@
     "C:\\Users\\carme\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\carme\\.nuget\\packages\\sendgrid\\9.22.0\\sendgrid.9.22.0.nupkg.sha512",
+    "C:\\Users\\carme\\.nuget\\packages\\starkbank-ecdsa\\1.2.0\\starkbank-ecdsa.1.2.0.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
